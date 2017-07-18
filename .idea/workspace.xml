@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="441b9fb6-f55c-41f7-ae9d-8b0aa0a3a70c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/AdminQuestionForm.class" afterPath="$PROJECT_DIR$/target/test-classes/AdminQuestionForm.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/AdminQuestionForm.java" afterPath="$PROJECT_DIR$/src/test/java/AdminQuestionForm.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -536,6 +533,14 @@
       <option name="presentableId" value="Default" />
       <updated>1493827508696</updated>
     </task>
+    <task id="LOCAL-00001" summary="additional functions">
+      <created>1500384564627</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1500384564627</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -606,6 +611,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="additional functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional functions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
