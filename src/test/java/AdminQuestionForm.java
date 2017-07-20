@@ -60,7 +60,7 @@ public class AdminQuestionForm {
         driver.manage().window().maximize();
         JavascriptExecutor jse = (JavascriptExecutor)driver;
         jse.executeScript("window.scrollTo(0, document.body.scrollHeight)");
-        loginPage.clickOnForForm();
+       // loginPage.clickOnForForm();
         loginPage.typeNameContact("Oks");
         loginPage.typeEmailContact("test@test.com");
         loginPage.clickOnSubmitContact();

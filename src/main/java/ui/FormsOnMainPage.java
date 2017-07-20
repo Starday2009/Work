@@ -20,12 +20,15 @@ public class FormsOnMainPage {
     By commentFieldVet = By.xpath("html/body/div[1]/main/div[2]/form[1]/div[2]/div[6]/textarea");
     By submitButtonVet = By.xpath("html/body/div[1]/main/div[2]/form[1]/div[2]/div[7]/button");
     By successMessageVet = By.xpath("html/body/div[5]/div");
-
     //contactForm
     By nameContact = By.xpath("html/body/footer/div/div[1]/div[1]/div/div[2]/div/div[2]/form/label[1]/input");
     By emailContact = By.xpath("html/body/footer/div/div[1]/div[1]/div/div[2]/div/div[2]/form/label[2]/input");
     By submitButtonContact = By.xpath("html/body/footer/div/div[1]/div[1]/div/div[2]/div/div[2]/form/input");
     By buttonForForm = By.xpath("html/body/footer/div/div[1]/div[1]/div/div[2]/div/div[1]");
+
+    //comparison
+    By checkBox = By.id("69");
+
 
     private final WebDriver driver;
 
@@ -114,4 +117,10 @@ public class FormsOnMainPage {
     }
 
 
+    //comparison
+
+    public FormsOnMainPage clickOnComparison() {
+        driver.findElement(checkBox).click();
+        return this;
+    }
 }
