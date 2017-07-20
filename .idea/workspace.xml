@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="441b9fb6-f55c-41f7-ae9d-8b0aa0a3a70c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ui/FormOnCartPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/ui/ProductsPage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/PurchaseForm.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ui/FormsOnMainPage.class" afterPath="$PROJECT_DIR$/target/classes/ui/FormsOnMainPage.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/AdminQuestionForm.class" afterPath="$PROJECT_DIR$/target/test-classes/AdminQuestionForm.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ui/FormsOnMainPage.java" afterPath="$PROJECT_DIR$/src/main/java/ui/FormsOnMainPage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/AdminQuestionForm.java" afterPath="$PROJECT_DIR$/src/test/java/AdminQuestionForm.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -647,7 +642,14 @@
       <option name="project" value="LOCAL" />
       <updated>1500384585367</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="additional functions">
+      <created>1500549189806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1500549189806</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
